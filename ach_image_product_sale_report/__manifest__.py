@@ -3,7 +3,7 @@
     'name': "Image Product in Sale Report",
     'summary': """Sets image on sales quote line""",
     'description': """Sets image on sales quote line.""",
-    'author': "ACH",
+    'author': "ACH Alchemical Code",
     'license': 'LGPL-3',
     'support': 'developmentalchemygx@gmail.com',
     'category': 'Sales',
