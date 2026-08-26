@@ -10,5 +10,5 @@
     'version': '16.0.1.0.1',
     'depends': ['base','sale'],
     'data': ['reports/sale_report.xml',],
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
 }
